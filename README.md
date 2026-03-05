@@ -1,7 +1,7 @@
 # Hides Professional Suite
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/42726/m/php8txdr2-logo.png?v=1766352437" width="300" alt="Hides Professional Suite Logo"/>
+  <img src="https://hides.sweetpproductions.com/images/hides_icon_lg.png" width="300" alt="Hides Professional Suite Logo"/>
 </p>
 
 <p align="center">
